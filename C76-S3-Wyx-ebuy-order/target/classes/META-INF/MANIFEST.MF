@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: C76-S3-Wyx-ebuy-order
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lenovo
+Implementation-Vendor-Id: com.yc
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/C76-S3-Wyx-ebuy-parent1/C76-S3-Wyx-ebuy-parent2/C76
+ -S3-Wyx-ebuy-order
+Created-By: Maven Integration for Eclipse
+
